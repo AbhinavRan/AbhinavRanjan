@@ -2,13 +2,15 @@
   "name": "tim-baker-personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AbhinavRan.github.io/CV-React",
+  "homepage": "http://AbhinavRan.github.io/AbhinavRanjan",
   "dependencies": {
+    "-": "0.0.1",
     "jquery": "^3.5.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.7.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "save-dev": "0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
